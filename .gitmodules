@@ -1,0 +1,6 @@
+[submodule "DefineConverter"]
+	path = DefineConverter
+	url = https://github.com/NNNIC/DefineConverter.git
+[submodule "InsertInclude"]
+	path = InsertInclude
+	url = https://github.com/NNNIC/InsertInclude.git
