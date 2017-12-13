@@ -4,3 +4,9 @@
 [submodule "InsertInclude"]
 	path = InsertInclude
 	url = https://github.com/NNNIC/InsertInclude.git
+[submodule "ExcelStateChartConverter"]
+	path = ExcelStateChartConverter
+	url = https://github.com/NNNIC/ExcelStateChartConverter.git
+[submodule "StateViewer"]
+	path = StateViewer
+	url = https://github.com/NNNIC/StateViewer.git
