@@ -1,0 +1,5 @@
+submodule‚ÌXV
+
+git submodule foreach git pull origin master
+
+ref: https://qiita.com/kshimo69/items/ac22d414d756ea08943f
